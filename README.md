@@ -1,4 +1,4 @@
-# SoftComputing
+# Soft Computing
 CS464 assignments
 
 ## Smooth Curve Fitting ##
