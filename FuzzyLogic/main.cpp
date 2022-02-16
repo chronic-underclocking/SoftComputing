@@ -7,7 +7,6 @@
 using std::max;
 using std::min;
 
-// By: Bassel Yasser Al-Ashram (20176042)
 int main(int argc, char *argv[])
 {
 	int variables;

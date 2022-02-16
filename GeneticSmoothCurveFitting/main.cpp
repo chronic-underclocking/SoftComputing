@@ -5,7 +5,6 @@
 #include <random>
 #include "genetic_smooth_curve_fitting.h"
 
-// By: Bassel Yasser Al-Ashram 20176042
 int main()
 {	
 	int sets;
